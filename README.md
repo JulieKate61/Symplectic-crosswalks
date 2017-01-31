@@ -5,3 +5,7 @@ Both those in use by
 
 1. VURR and
 2. Other Universities
+
+Useful files at this github repository
+
+crosswalks_sgul/symplectic_xwalks_eprints_sgul.xsl
